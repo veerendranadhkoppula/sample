@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-           veerendra <code>app/page.js</code>.
+         hello  dvgrfgrgrtgtrgtrgveerendra <code>app/page.js</code>.
           </li>
           <li>sample</li>
         </ol>
